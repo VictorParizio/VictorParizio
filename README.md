@@ -18,5 +18,3 @@
     </p>
   </div>
 </div>
-
-![Snake animation](https://github.com/VictorParizio/VictorParizio/blob/output/github-contribution-grid-snake.svg)
