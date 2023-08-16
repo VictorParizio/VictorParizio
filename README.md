@@ -1,7 +1,29 @@
 <h1 align="center"> Seja Bem-vindo(a), <br>ao meu Desenvolvimento em <br>Software FullStack</h2>
 <br>
 
-<p align="center">Possuo habilidades sólidas no desenvolvimento de projetos utilizando HTML, CSS e JavaScript, além de experiência prática com React.js. Atualmente estou me aprofundando em Backend construindo APIs Restfull (Node.js + Express) e Banco de Dados (SQL | Postgres), com o objetivo de expandir minha expertise e habilidades no desenvolvimento de aplicações Fullstack.</p>
+<p align="center">Há pouco mais de um ano, mergulhei no desenvolvimento de software, dominando HTML, CSS, JavaScript, React, Node.js e Express, juntamente com o uso de ferramentas como Git, GitHub e VSCode. Minha jornada começou com a criação de interfaces interativas e evoluiu para projetos desafiadores, incluindo landing pages e integração com APIs como GitHub e StarWars. Atualmente, estou concentrado no desenvolvimento de APIs, criando sistemas bancários, livrarias e lojas online. Minha abordagem centrada em soluções e minha paixão por aprender continuam a impulsionar meu desejo de explorar novas tecnologias e contribuir para projetos inovadores no futuro. </p>
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <h2 align="center">Estou me Aprofundando</h2>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,express,nodejs&perline=5" />
+      </a>
+    </p>
+  </div>
+</div>
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <h2 align="center">Cursos realizados</h2>
+    <div align="center">
+      <span>Cubos Academy - Back-End - jun de 2023 - out de 2023</span><br>
+      <span>Rocketseat - Full Stack - fev de 2023 - abr de 2023</span><br>
+      <span>DevQuest - Front-End -  ago de 2022 - nov de 2022</span>
+    </div>
+  </div>
+</div>
 <br>
 
 <div align="center">
@@ -12,7 +34,6 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-<!--     <img align="left" height="250" alt="coding-time" src="code.gif"> -->
     <h1 align="center">Tecnologias</h1>
     <p align="center">
       <a href="https://skillicons.dev">
