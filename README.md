@@ -1,7 +1,7 @@
 <h1 align="center"> Seja Bem-vindo(a), <br>ao meu Desenvolvimento em <br>Software FullStack</h2>
 <br>
 
-<p align="center">Há pouco mais de um ano, mergulhei no desenvolvimento de software, dominando HTML, CSS, JavaScript, React, Node.js e Express, juntamente com o uso de ferramentas como Git, GitHub e VSCode. Minha jornada começou com a criação de interfaces interativas e evoluiu para projetos desafiadores, incluindo landing pages e integração com APIs como GitHub e StarWars. Atualmente, estou concentrado no desenvolvimento de APIs, criando sistemas bancários, livrarias e lojas online. Minha abordagem centrada em soluções e minha paixão por aprender continuam a impulsionar meu desejo de explorar novas tecnologias e contribuir para projetos inovadores no futuro. </p>
+<p align="center">Há pouco mais de um ano, mergulhei no desenvolvimento de software, dominando <strong>HTML, CSS, JavaScript, React, Node.js e Express</strong>, juntamente com o uso de ferramentas como <strong>Git, GitHub e VSCode</strong>. Minha jornada começou com a criação de interfaces interativas e evoluiu para projetos desafiadores, incluindo <strong>landing pages e integração com APIs como GitHub e StarWars</strong>. Atualmente, estou concentrado no <strong>desenvolvimento de APIs</strong>, criando sistemas bancários, livrarias e lojas online. Minha abordagem centrada em soluções e minha paixão por aprender continuam a impulsionar meu desejo de explorar novas tecnologias e contribuir para projetos inovadores no futuro.</p>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
