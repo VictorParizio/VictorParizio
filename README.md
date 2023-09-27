@@ -8,7 +8,7 @@
     <h2 align="center">Estou me Aprofundando</h2>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,express,nodejs&perline=5" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=5" />
       </a>
     </p>
   </div>
