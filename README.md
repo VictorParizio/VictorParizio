@@ -1,4 +1,4 @@
-<h1 align="center"> Seja Bem-vindo(a), <br>ao meu Desenvolvimento em <br>Software FullStack</h2>
+<h1 align="center"> Seja Bem-vindo(a), <br>ao meu Desenvolvimento <br>Web FullStack</h2>
 <br>
 
 <p align="center">Possuo habilidades sólidas no desenvolvimento de projetos utilizando <strong>HTML, CSS e JavaScript</strong>, além de experiência prática com <strong>React, TypeScript, SASS</strong> para construir interfaces responsivas, dinâmicas e modernas no frontend. Já no backend, utilizo <strong>Node.js e Express</strong> para criar APIs robustas e eficientes, além do <strong>knex</strong> para integração com bancos de dados relacionais, como o <strong>PostgreSQL</strong>.
