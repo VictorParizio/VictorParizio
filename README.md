@@ -1,14 +1,14 @@
 <h1 align="center"> Seja Bem-vindo(a), <br>ao meu Desenvolvimento em <br>Software FullStack</h2>
 <br>
 
-<p align="center">Há pouco mais de um ano, mergulhei no desenvolvimento de software, dominando <strong>HTML, CSS, JavaScript, React, Node.js, Express, Postegres</strong>, juntamente com o uso de ferramentas como <strong>Git, GitHub e VSCode</strong>. Minha jornada começou com a criação de interfaces interativas e evoluiu para projetos desafiadores, incluindo <strong>landing pages e integração com APIs como GitHub e StarWars</strong>. Atualmente, estou concentrado no <strong>desenvolvimento de APIs</strong>, criando sistemas bancários, livrarias e lojas online. Minha abordagem centrada em soluções e minha paixão por aprender continuam a impulsionar meu desejo de explorar novas tecnologias e contribuir para projetos inovadores no futuro.</p>
+<p align="center">Possuo habilidades sólidas no desenvolvimento de projetos utilizando <strong>HTML, CSS e JavaScript</strong>, além de experiência prática com <strong>React, TypeScript, SASS</strong> para construir interfaces responsivas, dinâmicas e modernas no frontend. Já no backend, utilizo <strong>Node.js e Express</strong> para criar APIs robustas e eficientes, além do <strong>knex</strong> para integração com bancos de dados relacionais, como o <strong>PostgreSQL</strong>.
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h2 align="center">Estou me Aprofundando</h2>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=5" />
+        <img src="https://skillicons.dev/icons?i=nextjs" />
       </a>
     </p>
   </div>
@@ -37,7 +37,7 @@
     <h1 align="center">Tecnologias</h1>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,express,nodejs,react,javascript,css,html,vscode,git,figma&perline=5" />
+        <img src="https://skillicons.dev/icons?i=postgres,express,nodejs,sass,typescript,react,javascript,css,html,vscode,git,figma&perline=3" />
       </a>
     </p>
   </div>
