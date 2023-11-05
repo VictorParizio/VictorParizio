@@ -1,7 +1,8 @@
-<div align="center">
-  <h2>Seja Bem-vindo(a),</h2>
-  <h1>ao meu Desenvolvimento</h1>
-  <h2>Web FullStack</h2>
+<div align="left">
+  <p>Seja Bem-vindo(a),</p>
+  <p>Meu nome é </p>
+  <h1>Victor <span>Parizio</span></h1>
+  <p>Desenvolvimento Web <span>FullStack</span></p>
   <br />
 
   <p align="center">
@@ -31,7 +32,7 @@
   <div align="center">
     <div style="display: inline_block">
       <br />
-      <h2 align="center">Cursos realizados</h2>
+      <h2 align="center">Cursos <span>realizados</span></h2>
       <div align="center">
         Cubos Academy - <span>Back-End</span> - jun de 2023 - out de 2023<br />
         Rocketseat - <span>Full Stack</span> - fev de 2023 - abr de 2023<br />
@@ -69,11 +70,4 @@
     </div>
   </div>
 
-  <div align="center">
-    <img
-      src="https://visitor-badge.feriirawann.repl.co/?username=VictorParizio&repo=VictorParizio&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg"
-      alt="Contador de Visitas do Perfil no Github do Victor Parizio"
-      height="28px"
-    />
-  </div>
 </div>
