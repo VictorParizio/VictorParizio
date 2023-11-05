@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Seja Bem-vindo(a), Meu nome é  Victor <span>Parizio</span> Desenvolvimento Web <span>FullStack</span></h1>
+  <h1>Seja Bem-vindo(a), <br>
+    Meu nome é  Victor <span>Parizio</span> <br>
+    Desenvolvimento Web <span>FullStack</span></h1>
   <br />
 
   <p align="center">
