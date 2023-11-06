@@ -1,30 +1,33 @@
-<section id="home">
-  <h1>
-    Seja Bem-vindo(a), <br />
-    Meu nome é Victor <span>Parizio</span>
+<section class="home" id="home">
+  <div>
+    <h1>
+      Seja Bem-vindo(a), <br />
+      Meu nome é Victor <span>Parizio</span>
+      <br />
+      Desenvolvimento Web <span>FullStack</span>
+    </h1>
     <br />
-    Desenvolvimento Web <span>FullStack</span>
-  </h1>
-  <br />
-  <p>
-    Possuo habilidades sólidas no desenvolvimento de projetos utilizando
-    <strong> <span>HTML, CSS e JavaScript</span> </strong>, além de experiência
-    prática com
-    <strong>
-      <span>React, TypeScript, SASS</span>
-    </strong>
-    para construir interfaces responsivas, dinâmicas e modernas no frontend. Já
-    no backend, utilizo
-    <strong>
-      <span>Node.js e Express</span>
-    </strong>
-    para criar APIs robustas e eficientes, além do
-    <strong>
-      <span>knex</span>
-    </strong>
-    para integração com bancos de dados relacionais, como o
-    <strong> <span>PostgreSQL</span> </strong>.
-  </p>
+    <p>
+      Possuo habilidades sólidas no desenvolvimento de projetos utilizando
+      <strong> <span>HTML, CSS e JavaScript</span> </strong>, além de
+      experiência prática com
+      <strong>
+        <span>React, TypeScript, SASS</span>
+      </strong>
+      para construir interfaces responsivas, dinâmicas e modernas no frontend.
+      Já no backend, utilizo
+      <strong>
+        <span>Node.js e Express</span>
+      </strong>
+      para criar APIs robustas e eficientes, além do
+      <strong>
+        <span>knex</span>
+      </strong>
+      para integração com bancos de dados relacionais, como o
+      <strong> <span>PostgreSQL</span> </strong>.
+    </p>
+  </div>
+  <img src="https://avatars.githubusercontent.com/u/110943547?v=4" alt="">
 </section>
 <section align="center" id="estudos">
   <div style="display: inline_block">
