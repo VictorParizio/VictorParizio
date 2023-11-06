@@ -27,7 +27,6 @@
       <strong> <span>PostgreSQL</span> </strong>.
     </p>
   </div>
-  <img src="https://avatars.githubusercontent.com/u/110943547?v=4" alt="">
 </section>
 <section align="center" id="estudos">
   <div style="display: inline_block">
