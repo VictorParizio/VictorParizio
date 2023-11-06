@@ -1,4 +1,4 @@
-<div align="center">
+<div aling="center">
       <section id="home">
         <h1>
           Seja Bem-vindo(a), <br />
@@ -6,9 +6,8 @@
           <br />
           Desenvolvimento Web <span>FullStack</span>
         </h1>
-        <br />
-
-        <p align="center">
+      <br/>
+        <p>
           Possuo habilidades sólidas no desenvolvimento de projetos utilizando
           <strong> <span>HTML, CSS e JavaScript</span> </strong>, além de
           experiência prática com
@@ -28,10 +27,9 @@
           <strong> <span>PostgreSQL</span> </strong>.
         </p>
       </section>
-
+      <br/>
       <section align="center" id="estudos">
         <div style="display: inline_block">
-          <br />
           <h2 align="center">Estou me <span>Aprofundando</span></h2>
           <p align="center">
             <a href="https://skillicons.dev">
@@ -42,7 +40,6 @@
           </p>
         </div>
       </section>
-
       <section align="center" id="formacao">
         <div style="display: inline_block">
           <br />
@@ -50,18 +47,17 @@
           <div align="center">
             <p>
               Cubos Academy - <span>Back-End</span> - jun de 2023 - out de
-              2023<br />
+              2023
             </p>
             <p>
               Rocketseat - <span>Full Stack</span> - fev de 2023 - abr de
-              2023<br />
+              2023
             </p>
             <p>DevQuest - <span>Front-End</span> - ago de 2022 - nov de 2022</p>
           </div>
         </div>
       </section>
       <br />
-
       <section align="center" id="parametros">
         <img
           align="center"
@@ -75,7 +71,6 @@
         />
       </section>
       <br />
-
       <section align="center" id="tecnologias">
         <div style="display: inline_block">
           <br />
@@ -91,4 +86,4 @@
           </p>
         </div>
       </section>
-    </div>
+</div>
