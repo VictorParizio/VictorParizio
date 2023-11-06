@@ -6,7 +6,7 @@
     Desenvolvimento Web <span>FullStack</span>
   </h1>
   <br />
-  <p align="center">
+  <p>
     Possuo habilidades sólidas no desenvolvimento de projetos utilizando
     <strong> <span>HTML, CSS e JavaScript</span> </strong>, além de experiência
     prática com
