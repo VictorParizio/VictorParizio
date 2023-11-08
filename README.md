@@ -12,7 +12,7 @@
       <strong> <span>HTML, CSS e JavaScript</span> </strong>, além de
       experiência prática com
       <strong>
-        <span>React, TypeScript, SASS</span>
+        <span>React, SASS</span>
       </strong>
       para construir interfaces responsivas, dinâmicas e modernas no frontend.
       Já no backend, utilizo
