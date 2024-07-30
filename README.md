@@ -8,23 +8,13 @@
     </h1>
     <br />
     <p>
-      Possuo habilidades sólidas no desenvolvimento de projetos utilizando
-      <strong> <span>HTML, CSS e JavaScript</span> </strong>, além de
-      experiência prática com
+      Tenho ampla experiência em criar interfaces de usuário responsivas e dinâmicas usando
+      <strong> <span>HTML, CSS, JavaScript, React e SASS</span> </strong>.
+      Desenvolvo APIs robustas e escaláveis com 
       <strong>
-        <span>React, SASS</span>
-      </strong>
-      para construir interfaces responsivas, dinâmicas e modernas no frontend.
-      Já no backend, utilizo
-      <strong>
-        <span>Node.js e Express</span>
-      </strong>
-      para criar APIs robustas e eficientes, além do
-      <strong>
-        <span>knex</span>
-      </strong>
-      para integração com bancos de dados relacionais, como o
-      <strong> <span>PostgreSQL</span> </strong>.
+        <span>Node.js, Express, TypeScript, PostgreSQL e Prisma</span>
+      </strong>.
+       Adoro trabalhar em equipe, colaborar em projetos inovadores. Sou comprometido, independente e que busca constantemente evoluir, estou pronto para contribuir e agregar valor ao seu projeto!
     </p>
   </div>
 </section>
@@ -34,7 +24,7 @@
     <h2 align="center">Estou me <span>Aprofundando</span></h2>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,typescript,nextjs" />
+        <img src="https://skillicons.dev/icons?i=express,typescript,java" />
       </a>
     </p>
   </div>
@@ -45,12 +35,24 @@
     <h2 align="center">Cursos <span>realizados</span></h2>
     <div align="center">
       <p>
-        Cubos Academy - <span>Back-End</span> - jun de 2023 - out de 2023<br />
+        DIO - <span>Back-End (Java)</span> - jul de 2024 - out de 2024<br />
       </p>
       <p>
-        Rocketseat - <span>Full Stack</span> - fev de 2023 - abr de 2023<br />
+        Alura + ONE - <span>Front-End (React)</span> - jan de 2024 - jun de 2024<br />
       </p>
-      <p>DevQuest - <span>Front-End</span> - ago de 2022 - nov de 2022</p>
+      <p>
+        Escola da Nuvem - <span>AWS Fundamentos (Cloud)</span> - jan de 2024 - abr de 2024<br />
+      </p>
+      <p>
+        Descomplica - <span>Banco de Dados (SQL) e Redes</span> - nov de 2023 - fev de 2024<br />
+      </p>
+      <p>
+        Cubos Academy - <span>Back-End (JavaScript/Express)</span> - jun de 2023 - out de 2023<br />
+      </p>
+      <p>
+        Rocketseat - <span>Full Stack (Express/React)</span> - fev de 2023 - abr de 2023<br />
+      </p>
+      <p>DevQuest - <span>Front-End(HTML, CSS, JavaScript)</span> - ago de 2022 - nov de 2022</p>
     </div>
   </div>
 </section>
@@ -77,7 +79,7 @@
     <p align="center">
       <a href="https://skillicons.dev">
         <img
-          src="https://skillicons.dev/icons?i=postgres,express,nodejs,sass,typescript,react,javascript,css,html,vscode,git,figma&perline=3"
+          src="https://skillicons.dev/icons?i=express,nodejs,postgres,prisma,react,typescript,sass,tailwind,javascript,css,html,sql,docker,vscode,git,figma&perline=4"
         />
       </a>
     </p>
