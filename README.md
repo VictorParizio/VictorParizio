@@ -4,16 +4,25 @@
       Seja Bem-vindo(a), <br />
       Meu nome é Victor <span>Parizio</span>
       <br />
-      Desenvolvimento Web <span>FullStack</span>
+      Desenvolvedor Web <span>FullStack</span>
     </h1>
     <br />
     <p>
+      Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS), onde aprofundo meus conhecimentos em 
+      <strong> 
+        <span>estruturas de dados, redes de computadores, engenharia de software, computação em nuvem e segurança da informação.</span>
+      </strong>
+      Além da graduação, venho construindo um portfólio ativo no GitHub, com projetos que exploram aplicações web completas e práticas de código limpo.
+    <p>
+    <p>
       Tenho ampla experiência em criar interfaces de usuário responsivas e dinâmicas usando
-      <strong> <span>HTML, CSS, JavaScript, React e SASS</span> </strong>.
+      <strong> 
+        <span>HTML, CSS, JavaScript, React e SASS.</span>
+      </strong>
       Desenvolvo APIs robustas e escaláveis com 
       <strong>
-        <span>Node.js, Express, TypeScript, PostgreSQL e Prisma</span>
-      </strong>.
+        <span>Node.js, Express, TypeScript, PostgreSQL e Prisma.</span>
+      </strong>
        Adoro trabalhar em equipe, colaborar em projetos inovadores. Sou comprometido, independente e que busca constantemente evoluir, estou pronto para contribuir e agregar valor ao seu projeto!
     </p>
   </div>
@@ -24,7 +33,7 @@
     <h2 align="center">Estou me <span>Aprofundando</span></h2>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=express,typescript,java" />
+        <img src="https://skillicons.dev/icons?i=express,typescript" />
       </a>
     </p>
   </div>
