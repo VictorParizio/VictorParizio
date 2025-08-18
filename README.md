@@ -44,9 +44,6 @@
     <h2 align="center">Cursos <span>realizados</span></h2>
     <div align="center">
       <p>
-        DIO - <span>Back-End (Java)</span> - jul de 2024 - out de 2024<br />
-      </p>
-      <p>
         Alura + ONE - <span>Front-End (React)</span> - jan de 2024 - jun de 2024<br />
       </p>
       <p>
