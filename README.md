@@ -33,7 +33,7 @@
     <h2 align="center">Estou me <span>Aprofundando</span></h2>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=express,typescript" />
+        <img src="https://skillicons.dev/icons?i=express,typescript,next" />
       </a>
     </p>
   </div>
@@ -85,7 +85,7 @@
     <p align="center">
       <a href="https://skillicons.dev">
         <img
-          src="https://skillicons.dev/icons?i=express,nodejs,postgres,prisma,react,typescript,sass,tailwind,javascript,css,html,sql,docker,vscode,git,figma&perline=4"
+          src="https://skillicons.dev/icons?i=express,nodejs,postgres,prisma,next,typescript,sass,tailwind,react,javascript,css,html,docker,vscode,git,figma&perline=4"
         />
       </a>
     </p>
